@@ -1,6 +1,4 @@
 <?php
-error_reporting(E_ALL);
-ini_set("display_errors");
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: *");
 echo "Testing";
